@@ -52,7 +52,6 @@
     "provenance": true
   },
   "dependencies": {
-    "react-compiler-runtime": "0.0.0-experimental-a1856f3-20260507",
     "react-tweet": "^3.3.1",
     "third-party-capital": "^3.0.0"
   },
@@ -66,11 +65,9 @@
     "@rspress/core": "catalog:",
     "@types/node": "catalog:",
     "@types/react": "catalog:",
-    "@types/react-dom": "^18.3.7",
-    "babel-plugin-react-compiler": "0.0.0-experimental-a1856f3-20260507",
+    "@types/react-dom": "catalog:",
     "react": "catalog:",
     "react-dom": "catalog:",
-    "react-render-to-markdown": "^18.3.1",
     "rspress-plugin-third-parties": "workspace:*",
     "typescript": "catalog:"
   }
